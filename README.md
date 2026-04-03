@@ -14,6 +14,12 @@ Detailed technical blueprints are located in the `/Master_Specs` directory:
 
 | Blueprint | Filename | Description |
 | :--- | :--- | :--- |
+| **AI Holding Company Framework** | [`AI_Holding_Company_Framework.md`](./Master_Specs/AI_Holding_Company_Framework.md) | Multi-tenant IaaS vision and business unit partitioning. |
+| **Genesis Day Protocol** | [`Genesis_Day_Hyper_Acceleration.md`](./Master_Specs/Genesis_Day_Hyper_Acceleration.md) | Hyper-accelerated deployment via the Gemini CLI. |
+| **Three-Tier FinOps** | [`Three_Tier_Credit_FinOps.md`](./Master_Specs/Three_Tier_Credit_FinOps.md) | Prioritized consumption of $1,300+ in credits. |
+| **Tri-Memory Ontology** | [`Tri_Memory_Ontology_Deep_Dive.md`](./Master_Specs/Tri_Memory_Ontology_Deep_Dive.md) | Hot, Deep, and Cached memory layer architecture. |
+| **Autonomous Survival** | [`Autonomous_Survival_Protocol.md`](./Master_Specs/Autonomous_Survival_Protocol.md) | Quota-aware throttling and disconnection recovery. |
+| **Headless Titan DNA** | [`Headless_Titan_DNA_Specs.md`](./Master_Specs/Headless_Titan_DNA_Specs.md) | Specs for the 24/7 containerized Architect Agent. |
 | **Deep Research Blueprint** | [`Deep_Research_Blueprint.md`](./Master_Specs/Deep_Research_Blueprint.md) | Global Load Balancing, Serverless NEGs, and RLS. |
 | **Empire V3 Architecture** | [`Empire_V3_Architecture.md`](./Master_Specs/Empire_V3_Architecture.md) | V3 transition, Headless Titan, and GCIP setup. |
 | **GCP Handshake Protocol** | [`GCP_Handshake_Protocol.md`](./Master_Specs/GCP_Handshake_Protocol.md) | Enterprise V2 mandate, Tri-Memory, and Genesis logic. |
