@@ -10,10 +10,11 @@ Welcome to the core repository for the **EVO ULTRA AI Platform-as-a-Service**. T
 4.  **Resilience & State Management:** Automated rollback systems and Firestore-based 'Hot Memory' for real-time agent coordination.
 
 ## Master Specifications Index
-Detailed technical blueprints are located in the `/Master_Specs` directory:
+Detailed technical blueprints and historical indices are located in the `/Master_Specs` directory:
 
 | Blueprint | Filename | Description |
 | :--- | :--- | :--- |
+| **Chronological Evolution** | [`Chronological_Evolution_Index.md`](./Master_Specs/Chronological_Evolution_Index.md) | The definitive timeline from Iskra to Empire V3. |
 | **AI Holding Company Framework** | [`AI_Holding_Company_Framework.md`](./Master_Specs/AI_Holding_Company_Framework.md) | Multi-tenant IaaS vision and business unit partitioning. |
 | **Genesis Day Protocol** | [`Genesis_Day_Hyper_Acceleration.md`](./Master_Specs/Genesis_Day_Hyper_Acceleration.md) | Hyper-accelerated deployment via the Gemini CLI. |
 | **Three-Tier FinOps** | [`Three_Tier_Credit_FinOps.md`](./Master_Specs/Three_Tier_Credit_FinOps.md) | Prioritized consumption of $1,300+ in credits. |
