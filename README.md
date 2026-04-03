@@ -14,6 +14,10 @@ Detailed technical blueprints are located in the `/Master_Specs` directory:
 
 | Blueprint | Filename | Description |
 | :--- | :--- | :--- |
+| **Quota & Limits Protocol** | [`Quota_and_Limits_Protocol.md`](./Master_Specs/Quota_and_Limits_Protocol.md) | Mapping egress limits, QPM, and hidden overrides. |
+| **Enterprise Execution Plan** | [`EVO_Enterprise_Execution_Plan.md`](./Master_Specs/EVO_Enterprise_Execution_Plan.md) | Multi-agent microservice architecture and roadmap. |
+| **Global Deep-Scan** | [`Global_Deep_Scan_Zero_Cost.md`](./Master_Specs/Global_Deep_Scan_Zero_Cost.md) | Top 5 trajectories for zero-cost cloud infrastructure. |
+| **Genesis Script Scaffold** | [`Genesis_Script_Scaffold.md`](./Master_Specs/Genesis_Script_Scaffold.md) | Automated deployment script for Brain & Workers. |
 | **Sovereign Behemoth V1** | [`Sovereign_Behemoth_V1.md`](./Master_Specs/Sovereign_Behemoth_V1.md) | Historical context and zero-cost empire plan. |
 | **Sovereign Behemoth V2** | [`Sovereign_Behemoth_V2.md`](./Master_Specs/Sovereign_Behemoth_V2.md) | Strategic evolution and compute securing protocols. |
 | **Master Blueprint V2** | [`Master_Blueprint_V2.md`](./Master_Specs/Master_Blueprint_V2.md) | PaaS architecture, memory ontology, and FinOps strategy. |
