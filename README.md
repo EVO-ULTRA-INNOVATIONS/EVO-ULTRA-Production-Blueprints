@@ -14,6 +14,10 @@ Detailed technical blueprints are located in the `/Master_Specs` directory:
 
 | Blueprint | Filename | Description |
 | :--- | :--- | :--- |
+| **EVO ULTRA Master Plan** | [`EVO_ULTRA_Master_Plan.md`](./Master_Specs/EVO_ULTRA_Master_Plan.md) | Unified build roadmap from S20 to Cloud Titan. |
+| **Smooth Transition Protocol** | [`Smooth_Transition_Protocol.md`](./Master_Specs/Smooth_Transition_Protocol.md) | SaaS-to-PaaS migration and Genesis 2.0 logic. |
+| **Mission Control UI** | [`Mission_Control_UI_Proposal.md`](./Master_Specs/Mission_Control_UI_Proposal.md) | Frontend strategies for the persistent 'Single Window.' |
+| **Toolbelt & Extensions** | [`Toolbelt_and_Extensions_Catalog.md`](./Master_Specs/Toolbelt_and_Extensions_Catalog.md) | Catalog of verified extensions for build optimization. |
 | **Quota & Limits Protocol** | [`Quota_and_Limits_Protocol.md`](./Master_Specs/Quota_and_Limits_Protocol.md) | Mapping egress limits, QPM, and hidden overrides. |
 | **Enterprise Execution Plan** | [`EVO_Enterprise_Execution_Plan.md`](./Master_Specs/EVO_Enterprise_Execution_Plan.md) | Multi-agent microservice architecture and roadmap. |
 | **Global Deep-Scan** | [`Global_Deep_Scan_Zero_Cost.md`](./Master_Specs/Global_Deep_Scan_Zero_Cost.md) | Top 5 trajectories for zero-cost cloud infrastructure. |
