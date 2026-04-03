@@ -14,6 +14,14 @@ Detailed technical blueprints are located in the `/Master_Specs` directory:
 
 | Blueprint | Filename | Description |
 | :--- | :--- | :--- |
+| **Deep Research Blueprint** | [`Deep_Research_Blueprint.md`](./Master_Specs/Deep_Research_Blueprint.md) | Global Load Balancing, Serverless NEGs, and RLS. |
+| **Empire V3 Architecture** | [`Empire_V3_Architecture.md`](./Master_Specs/Empire_V3_Architecture.md) | V3 transition, Headless Titan, and GCIP setup. |
+| **GCP Handshake Protocol** | [`GCP_Handshake_Protocol.md`](./Master_Specs/GCP_Handshake_Protocol.md) | Enterprise V2 mandate, Tri-Memory, and Genesis logic. |
+| **Operation Sovereign** | [`Operation_Sovereign.md`](./Master_Specs/Operation_Sovereign.md) | Research on zero-cost high-RAM compute and escape plans. |
+| **Operation Ouroboros** | [`Operation_Ouroboros_Protocol.md`](./Master_Specs/Operation_Ouroboros_Protocol.md) | V3 Empire deployment and self-optimization loops. |
+| **The Great Escape Plan** | [`The_Great_Escape_Plan.md`](./Master_Specs/The_Great_Escape_Plan.md) | London-based sovereignty and lifeboat ignition scripts. |
+| **God-Mode Arsenal** | [`God_Mode_Executive_Arsenal.md`](./Master_Specs/God_Mode_Executive_Arsenal.md) | Technical toolbelt for multi-agent swarm spawning. |
+| **Toolbelt Mandate** | [`Toolbelt_Orchestration_Mandate.md`](./Master_Specs/Toolbelt_Orchestration_Mandate.md) | Continuity rules and self-tooling GitOps logic. |
 | **EVO ULTRA Master Plan** | [`EVO_ULTRA_Master_Plan.md`](./Master_Specs/EVO_ULTRA_Master_Plan.md) | Unified build roadmap from S20 to Cloud Titan. |
 | **Smooth Transition Protocol** | [`Smooth_Transition_Protocol.md`](./Master_Specs/Smooth_Transition_Protocol.md) | SaaS-to-PaaS migration and Genesis 2.0 logic. |
 | **Mission Control UI** | [`Mission_Control_UI_Proposal.md`](./Master_Specs/Mission_Control_UI_Proposal.md) | Frontend strategies for the persistent 'Single Window.' |
