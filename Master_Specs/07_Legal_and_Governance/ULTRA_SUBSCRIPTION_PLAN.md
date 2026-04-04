@@ -13,7 +13,7 @@ The **ULTRA Enrollment Plan** provides strategic partners and enterprise clients
 - **Purpose:** Public technical auditing and transparency.
 
 #### **Tier 2: ULTRA PLAN (Restricted)**
-- **Cost:** **Invitation Only | Membership**
+- **Cost:** **£9.99 / Month (Subject to Vetting)**
 - **Access:** **[EVO-ULTRA-PLAN]** Gateway Repository.
 - **Included Proprietary Engines & Workflows:**
     1. **Strategic Foresight Engine (Autonomous Self-Evolution):** The complete code and SQL schemas for an AI that queries its own error logs in BigQuery to generate "Wisdom Upgrades" for itself.
