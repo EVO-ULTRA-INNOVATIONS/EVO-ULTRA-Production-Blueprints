@@ -1,0 +1,43 @@
+# EVO ULTRA: DEEP MEMORY LEDGER (BIGQUERY SCHEMA)
+# Version: 1.0.2
+# Priority: §M (GIGA BLOCK)
+
+table_id: deep_memory_ledger
+partition_field: event_timestamp
+cluster_fields: [tenant_id, agent_id, epoch]
+
+fields:
+  - name: event_timestamp
+    type: TIMESTAMP
+    mode: REQUIRED
+    description: "Exact UTC time of the state-transition."
+
+  - name: tenant_id
+    type: STRING
+    mode: REQUIRED
+    description: "UUID of the business unit/originator."
+
+  - name: agent_id
+    type: STRING
+    mode: REQUIRED
+    description: "ID of the executing cognitive agent (e.g., MARTA, PROMYK)."
+
+  - name: context_vector
+    type: FLOAT64
+    mode: REPEATED
+    description: "High-dimensional embedding of the neural state."
+
+  - name: state_payload
+    type: JSON
+    mode: REQUIRED
+    description: "Literal record of the 10B token sequence."
+
+  - name: forensic_hash
+    type: STRING
+    mode: REQUIRED
+    description: "SHA-256 integrity seal for Chronos Ledger validation."
+
+  - name: synchronization_status
+    type: STRING
+    mode: REQUIRED
+    description: "[MEM:OK] | [MEM:FALLBACK] | [MEM:DEGRADED]"
